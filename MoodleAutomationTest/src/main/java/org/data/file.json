@@ -1,0 +1,17 @@
+{
+  "login":{
+              "usuario": "2210100514",
+              "senha": "2210100514",
+              "topico": "Level 1 - 22/11/2022",
+              "rotulo": "Olá, gamers. Nesta aula vamos entender juntos o que é um algoritmo. Disponibilizamos a bibliografia de apoio ENSINANDO PROGRAMAÇÃO COM JOGOS DIGITAIS e também o plano de ensino previsto PLANO DE ENSINO. Vamos lá?!"
+          },
+  "envioAtividade":{
+                      "caminhoArquivo": "C:\\Users\\d00ne\\OneDrive\\Área de Trabalho\\Unipampa\\RPII\\Relatorio II - marco 02 (1).pdf",
+                      "texto": "<p>Lorem ipsum dolor sit amet. Qui sint eaque aut laudantium nulla sit illum dolores hic labore omnis et ipsam neque. Aut quas unde ut necessitatibus dolor ut iste molestiae. </p><p>Ut fuga fugit eum iure laboriosam est enim cupiditate aut voluptates pariatur est nemo accusamus. Ut aliquam ipsa ab reprehenderit ipsam rem sint porro aut Quis galisum sed dolorum voluptatibus. </p><p>Non praesentium dolor et necessitatibus sunt est repudiandae deleniti est quam repudiandae et quis fugiat! Ut dolorem quasi ut atque eligendi aut architecto sint et minus dolorum ex deleniti maiores. Ut tempore quidem aut nesciunt Quis hic deserunt molestias ut omnis eligendi et ratione totam ut veniam doloremque eos possimus officiis. </p>\n",
+                      "limitePalavras": "200"
+                    },
+  "correcaoAtividade": {
+                        "primeiraLetra": "D"
+                        }
+}
+
